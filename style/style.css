@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* header area styling start */
+.banner-area{
+    background-image: url(../images/banner/banner3.png);
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: cover;
+    height: 808px;
+    width: 1920px;
+    padding-top: 0%;
+
+}
+
+.banner-msg{
+    position: absolute;
+    width: 650px; 
+    height: 188px;
+    left: 1000px;
+    top:150px;
+    font-family: 'sans-serif';
+    line-height: 120px;
+    font-weight: 700;
+    font-size: 65px;
+    text-align: right;
+    color: #fff;
+
+}
+
+.banner-msg-des{
+    padding-top: 20px;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 45px;
+
+}
+
+.contact-us-btn{
+    position: absolute;
+    width: 230px;
+    height: 64px;
+    left: 1420px;
+    border-radius: 10px;
+    border: none;
+    top: 728px;
+    color: #005FAC;
+    font-weight: 600;
+    font-size: 26px; 
+}
+
+/* Content area started */
+
+.girl-with-msg{
+    position: absolute;
+    width: 1072px;
+    height: 723px;
+    left: 206px;
+    top: 980px;
+}
+
+.girl-with-msg-h3{
+    position: absolute;
+    width: 258px;
+    height: 94px;
+    left: 826px;
+    top: 238px;
+    font-style: normal;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+}
+
+.girl-with-msg-para{
+    position: absolute;
+    width: 416px;
+    height: 104px;
+    left: 826px;
+    top: 370px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+    
