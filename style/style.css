@@ -206,3 +206,117 @@
     width: 50%;
 }
  
+
+/* bottom banner area started */
+
+.bottom-banner{
+    position: absolute;
+    width: 1220px;
+    height: 300px;
+    left: 420px;
+    top: 2422px;
+}
+
+.bottom-gradient{
+    position: absolute;
+    width: 1220px;
+    height: 300px;
+    left: 420px;
+    top: 2422px;  
+}
+
+.banner-msg-bottom{
+    position: absolute;
+    width: 450px; 
+    height: 188px;
+    left: 500px;
+    top:2480px;
+    font-family: 'sans-serif';
+    line-height: 70px;
+    font-weight: 700;
+    font-size: 28px;
+    text-align: left;
+    color: #fff;
+
+}
+
+ .contact-us-btn-bottom{
+    position: absolute;
+    width: 160px;
+    height: 54px;
+    left: 500px;    
+    top: 2640px;
+    border-radius: 10px;
+    border: none;
+    background: #fff;
+    color: #005FAC;
+    font-weight: 600;
+    font-size: 20px; 
+}
+
+/* footer area started */
+
+.footer-background{
+    position: absolute;
+    width: 1920px;
+    height: 577px;
+    top: 2851px;
+    background: #151414;
+}
+
+.footer-msg-bottom{
+    position: absolute;
+    width: 450px; 
+    height: 188px;
+    left: 410px;
+    top:120px;
+    font-family: 'sans-serif';
+    line-height: 70px;
+    font-weight: 700;
+    font-size: 28px;
+    text-align: left;
+    color: #fff;
+}
+
+.footer-msg-des{
+    padding-top: 35px;
+    font-weight: 200;
+    font-size: 16px;
+    line-height: 25px; 
+}
+
+.footer-msg-email{
+    padding-top: 35px;
+    font-weight: 200;
+    font-size: 16px;
+    line-height: 25px; 
+}
+
+.footer-msg-phone{
+    padding-top: 35px;
+    font-weight: 200;
+    font-size: 16px;
+    line-height: 25px; 
+}
+
+#social-icon-fa{ 
+    position:absolute;
+    padding-top: 50px;  
+    left: 0px;
+    top: 280px;     
+}
+
+#social-icon-tw{ 
+    position:absolute;
+    padding-top: 50px;  
+    left: 70px;
+    top: 280px;     
+}
+
+#social-icon-yo{ 
+    position:absolute;
+    padding-top: 50px;  
+    left: 140px;
+    top: 280px;     
+}
+
