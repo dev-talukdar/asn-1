@@ -84,4 +84,83 @@
     font-size: 16px;
     line-height: 26px;
 }
-    
+    /* checkmark section */
+    /* .checkmark{
+        position: absolute;
+        left: 16.67%;
+        right: 16.67%;
+        background-color: #16D887;
+        bottom: 29.17%;
+        top: 25%;
+        border: 2px solid #16D887;
+    }
+
+    .checkmark_stem{
+        position: absolute;
+        left: 16.67%;
+        right: 16.67%;
+        background-color: #16D887;
+        bottom: 29.17%;
+        top: 25%;
+        border: 2px solid #16D887;
+    }
+
+    .checkmark_kick{
+        position:absolute;
+        width: 16px;
+        height: 11px;
+        background-color: #16D887;
+        left: 4px;
+        top: 6px;
+    } */
+
+    .checkmark{
+        position: absolute;
+        width: 349px;
+        height: 162px;
+        left: 846px;
+        top: 520px;
+    }
+
+   #checkmark_stem_icon{
+        position: absolute;
+        left: 815px;
+        top: 515px;
+   }
+
+/* My plan section */
+
+
+ .my-plans-headline {
+    position: absolute;
+    width: 179px;
+    height: 47px;
+    left: 765px; 
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+}
+
+.my-plans{
+    display: flex; 
+    position: absolute;
+    width: 1141px;
+    height: 203px;
+    left: 230px;
+    top: 1890px;
+
+}
+
+ 
+.my-planned-task{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center; 
+    gap: 14px;
+}
+
+.my-planned-task img{
+    width: 50%;
+}
+ 
